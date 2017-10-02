@@ -20,18 +20,18 @@
     "small": "/assets/images/small.png"
   },
   "author": {
-    "name": "MPTolboom Productions",
-    "email": "support@mptolboom.it"
+    "name": "MPT Productions",
+    "email": "support@mptproductions.it"
   },
   "contributors": {
     "developers": [
       {
         "name": "Ted Tolboom",
-        "email": "dTNL.Homey@gmail.com"
+        "email": "ted.tolboom@mptproductions.it"
       },
 	  {
         "name": "Marco Ruiter",
-        "email": "mruiter@tuxweb.nl"
+        "email": "marco.ruiter@mptproductions.it"
       }
     ]
   },
