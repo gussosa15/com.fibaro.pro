@@ -20,26 +20,14 @@
     "small": "/assets/images/small.png"
   },
   "author": {
-    "name": "Athom B.V.",
-    "email": "info@athom.com"
+    "name": "MPTolboom Productions",
+    "email": "support@mptolboom.it"
   },
   "contributors": {
     "developers": [
       {
-        "name": "Ralf van Dooren",
-        "email": "ralfvd@gmail.com"
-      },
-      {
-        "name": "Remco Mengers",
-        "email": "caseda08@hotmail.com"
-      },
-      {
         "name": "Ted Tolboom",
         "email": "dTNL.Homey@gmail.com"
-      },
-      {
-        "name": "Patrick van der Westen",
-        "email": "pvdwesten@hotmail.com"
       },
 	  {
         "name": "Marco Ruiter",
